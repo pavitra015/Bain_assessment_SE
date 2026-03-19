@@ -13,7 +13,7 @@ A full-stack application to calculate the distance between two addresses using g
 ### 1. Clone the Repository
 ```bash
 git clone <your-repository-url>
-cd Address_Mapping
+cd Bain_assessment_SE
 ```
 
 ### 2. Backend Setup
